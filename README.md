@@ -1,4 +1,2 @@
 # practica_github
 practicaGitenGrupo
-Jose
-agustin
