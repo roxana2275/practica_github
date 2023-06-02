@@ -1,2 +1,4 @@
 # practica_github
-practicaGitenGrupo
+agustin
+practicaGitenGrupo LUCAS PRUEBA
+>>>>>>> Lucas
